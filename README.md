@@ -30,7 +30,7 @@ The goal of this analysis is to explore the dataset, clean missing values, and u
 - Embarkation port influenced survival rates
 - Most passengers were young adults
 
-##  Tools Used
+## Tools Used
 - Python
 - Pandas
 - Matplotlib
