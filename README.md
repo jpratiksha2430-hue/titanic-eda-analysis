@@ -13,7 +13,7 @@ The goal of this analysis is to explore the dataset, clean missing values, and u
 ## Feature Engineering
 - Created a new feature **FamilySize** using SibSp and Parch
 
-##  Analysis Performed
+## Analysis Performed
 - Survival rate by Age Group
 - Survival rate by Embarkation Port
 - Survival rate by Family Size
