@@ -37,7 +37,7 @@ The goal of this analysis is to explore the dataset, clean missing values, and u
 - Seaborn
 
 ## Files Included
-- titanic_task3.ipynb (Jupyter Notebook with full analysis)
+- titanic_mini_EDA.ipynb (Jupyter Notebook with full analysis)
 
 ## Conclusion
 The analysis shows that survival on the Titanic was influenced by multiple factors such as passenger class, fare, family size, and age. Exploratory Data Analysis helped in identifying important patterns and relationships in the dataset.
